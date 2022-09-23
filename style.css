@@ -30,18 +30,22 @@ li{
      
 a{
         color: white;
+        text-decoration: none;
     
          }
          
-.yoda{
+.accueil{
     display: flex;
     justify-content: center;
     align-items: center;
     
     height: 90vh;
     background-color: red;
-    background-image:url("yoda.jpeg");
+    background-image:url("mariage.webp");
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
         }
     

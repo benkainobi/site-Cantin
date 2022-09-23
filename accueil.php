@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
    <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>Accueil</title>
 </head>
 <body>
     <?php include "barre_menu.php" ?>
-    <div  class='yoda'>accueil</div>
+    <div  class='accueil'>Charles Cantin - Photographe</div>
 </body>
 </html>

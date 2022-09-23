@@ -9,7 +9,7 @@
 
 <ul>
     <li><a href="accueil.php">Accueil</a></li>
-    <li><a href="galerie.php">galerie</a></li>
-    <li><a href="tarifs.php">tarifs</a></li>
-    <li><a href="contact.php">contact</a></li>
+    <li><a href="galerie.php">Galerie</a></li>
+    <li><a href="tarifs.php">Tarifs</a></li>
+    <li><a href="contact.php">Contact</a></li>
 </ul>
