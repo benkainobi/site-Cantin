@@ -3,30 +3,44 @@ body{
     padding:0;   
 }
 
-ul{
+.ul{
     display: flex;
     width: 100vw;
     height: 10vh;
+    background-color: black;
     
-    color:white;
-    list-style: none;
+    
     margin:0 ;
     padding:0;
 
-   justify-content : center;
+   
 }
 
-li{
+.li{
+    font-size: 20px;
     text-align: center;
     color: white;
     height: 10vh;
-    width: 25%;
+    width: 20.5%;
+    text-align: center;
+    line-height: 10vh;list-style-type: none;
+     background-color: black;}
+     
+
+.logo{
+    text-align: center;
+    list-style: none;
+    color: white;
+    height: 10vh;
+    width: 6%;
     line-height: 10vh;
-    
-    list-style-type: none;
+    text-align: center;
      background-color: black;}
 
-     
+
+ .logo:hover    {
+    background-color: grey;
+}
      
 a{
         color: white;
@@ -71,4 +85,8 @@ a:hover{color:gray;}
           border: 1px solid black;
           opacity: 0.6;
         }
-        
+        img{
+            width: 5vw;
+            height: 5vh;
+            vertical-align: middle;
+        }
