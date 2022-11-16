@@ -1,5 +1,6 @@
 
 <?php include "barre_menu.php" ?>
+<div class="ecran">
 <div class="tg"><h1>Galerie</h1></div>
 <div class="bb">
 <div class="bouton mariage" id="photo m">mariage</div>
@@ -9,6 +10,8 @@
 <div class="bouton famille" id="photo f">famille</div>
 <div class="bouton couple" id="photo c">couple</div>
 </div>
+
+<a class='bout' href="http://localhost:8888/Site%20Charles%20Cantin/Ajout%20de%20contenu/">AJOUT</a>
 
 
 <div class="gl">
@@ -31,7 +34,7 @@
     <img class="photo c"  src="../photos/couple2.jpeg" alt="">
     <img class="photo c"  src="../photos/couple3.jpeg" alt="1">
 </div>
-
+</div>
 <script>
     function affiche(){
 let a=document.querySelectorAll('.photo');

@@ -1,0 +1,36 @@
+.wp-core-ui .button.envira-button {
+	border-radius: 6px;
+}
+.wp-core-ui .envira-primary-button {
+	border-color: $primary_color;
+	color: $white;
+	background-color: $primary_color;
+	&:hover {
+		background: #95dc5e;
+		border-color: #95dc5e;
+		color: #fff;
+	}
+}
+.wp-core-ui .envira-secondary-button {
+	border-color: rgb(245, 245, 245);
+	color: rgb(100, 100, 100);
+	background-color: rgb(245, 245, 245);
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
+	&:hover {
+		border-color: rgb(235, 235, 235);
+		color: rgb(100, 100, 100);
+		background-color: rgb(235, 235, 235);
+		box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
+	}
+}
+
+.wp-core-ui .envira-button-small {
+}
+.wp-core-ui .envira-button-med {
+}
+
+.wp-core-ui .envira-button-large {
+}
+
+.wp-core-ui .envira-button-xl {
+}
