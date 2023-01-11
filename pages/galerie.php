@@ -11,7 +11,7 @@
 <div class="bouton couple" id="photo c">couple</div>
 </div>
 
-<a class='bout' href="http://localhost:8888/Site%20Charles%20Cantin/Ajout%20de%20contenu/">AJOUT</a>
+<a class='bout' href="http://localhost:8888/Site%20Charles%20Cantin/Ajout%20de%20contenu/wp-admin">AJOUT</a>
 
 
 <div class="gl">
@@ -33,6 +33,7 @@
     <img class="photo c"  src="../photos/couple.jpeg" alt="">
     <img class="photo c"  src="../photos/couple2.jpeg" alt="">
     <img class="photo c"  src="../photos/couple3.jpeg" alt="1">
+    <img class="photo g"  src="../Ajout de contenu/wp-content/uploads/2022/12/gros.jpeg" alt="">
 </div>
 </div>
 <script>

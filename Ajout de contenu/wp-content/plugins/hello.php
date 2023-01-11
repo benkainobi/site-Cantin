@@ -93,6 +93,8 @@ function dolly_css() {
 			padding-right: 0;
 		}
 	}
+
+	p{color:white;}
 	</style>
 	";
 }
